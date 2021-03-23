@@ -10,7 +10,7 @@ int main() {
   vector<vector<string>> hobbiesVector;
 
   int person = 0;
-  while (person < 3) {
+  while (person < 2) {
     string name;
     int age;
     cout << "ingresa los datos de la: " << person + 1 << " persona" << endl;
