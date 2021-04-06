@@ -26,7 +26,7 @@ int findCar(vector<Car> car, int id) {
 
 void printSoldOutCar(vector<Car> car) {
   for (auto i = 0; i < car.size(); i++) {
-    if (car[i].soldOut == false) {
+    if (car[i].soldOut == true) {
       cout << car[i].id;
       cout << car[i].model;
     }
