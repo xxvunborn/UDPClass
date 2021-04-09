@@ -1,0 +1,6 @@
+id|brand|model|new|sellOut|sellVendor|price
+1|audi|v1|true|false|chris|10000
+2|chevrolet|spark|true|false|chris|10000
+3|mercedes benz|clase A|true|false|chris|10000
+4|nisan|sentra|true|false|chris|10000
+5|hyundai|i20|true|false|chris|10000
